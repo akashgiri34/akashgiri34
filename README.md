@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Akash Kumar Giri 👋
 
-<!--
-**akashgiri34/akashgiri34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.Tech student in Computer Science & Engineering (AI & ML).
 
-Here are some ideas to get you started:
+💻 Currently learning Python and strengthening my programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and GPU Computing.
+
+🎯 Long-term goal: Become an AI/ML Engineer.
+
+### Currently Learning
+- Python
+- Programming Fundamentals
+- Mathematics for AI/ML
+- Git and GitHub
+
+### Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/akash-kumar-giri-a7603642a/
+- **GitHub:** https://github.com/akashgiri34/
+
+> Learning something new every day and building my skills one step at a time.
